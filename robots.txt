@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leessummitwaterheater.com/sitemap.xml
